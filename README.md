@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Michael 👋
 
-<!--
-**Michael-Vanzella/Michael-Vanzella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a PhD working at the intersection of **chemistry, automation, and machine learning**.
 
-Here are some ideas to get you started:
+My work focuses on building software and hardware systems that enable **automated chemical experimentation**, combining robotics, analytical chemistry, and ML driven optimisation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+My research interests include:
+
+* 🧪 **Automated chemical synthesis and experimentation**
+* 🤖 **Laboratory robotics and autonomous experimentation**
+* 📊 **Reaction optimisation**
+* 🧬 **Analytical chemistry**
+* 💻 **Scientific software development**
+* 🧠 **Machine learning for chemistry**
+
+A major part of my work involves developing **RoboChem**, an automated chemistry platform for reaction optimisation.
+
+---
+
+## Selected Publications
+
+A selection of my research publications:
+
+* https://doi.org/10.26434/chemrxiv.15008166/v1
+
+* https://doi.org/10.26434/chemrxiv.15005284/v1
+
+* https://doi.org/10.1038/s44160-026-01053-0
+
+---
+
+## Toolbox
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+
+* **Python**
+* Object-oriented programming
+* Automated experimental workflows
+
+### Development
+
+* **Git / GitHub**
+* **PyCharm**
+* Conda environments
+
+---
+
+## Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/MichaelVanzella/)
+
+---
